@@ -20,6 +20,9 @@ Since Kotlin has a certain level of compatibility with Java, the tips and
 tricks here can be used in Java in most cases; however, the tips and tricks
 will be shown using Kotlin syntax which may require some work to use in Java
 
+## Web Techniques
+Less common techniques for implementing functionality with web sites.
+
 ## Resources
 
 [Gradle](https://gradle.org/)
