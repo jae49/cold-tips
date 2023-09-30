@@ -9,7 +9,7 @@ to fix an issue with a third-party library that seems to have few solutions.
 ## Build Systems
 
 ### [Gradle](build-systems/gradle/README.md)
-Though the Kotlin syntax dcoumentation for Gradle has greatly improved recently,
+Though the Kotlin syntax documentation for Gradle has greatly improved recently,
 Gradle can still have surprising ways of accomplishing certain build patterns.
 The examples here all use Kotlin syntax.
 
