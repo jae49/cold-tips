@@ -13,6 +13,11 @@ Though the Kotlin syntax documentation for Gradle has greatly improved recently,
 Gradle can still have surprising ways of accomplishing certain build patterns.
 The examples here all use Kotlin syntax.
 
+### [Shell Scripts](shell-scripts/README.md)
+Techniques for using shell scripts to run, build and integrate deployments
+into an operating system or deployment system.
+
+
 ## Software Libraries and APIs
 
 ### [Kotlin Libraries and APIs](libraries/kotlin/README.md)
@@ -20,8 +25,10 @@ Since Kotlin has a certain level of compatibility with Java, the tips and
 tricks here can be used in Java in most cases; however, the tips and tricks
 will be shown using Kotlin syntax which may require some work to use in Java
 
+
 ## [Web Techniques](web-techniques/README.md)
 Less common techniques for implementing functionality with web sites.
+
 
 ## Resources
 
@@ -30,6 +37,8 @@ Less common techniques for implementing functionality with web sites.
 [Kotlin Language](https://kotlinlang.org)
 
 [Microsoft OpenJDK](https://www.microsoft.com/openjdk)
+
+[Apache Commons Daemon](https://commons.apache.org/proper/commons-daemon/)
 
 
 
